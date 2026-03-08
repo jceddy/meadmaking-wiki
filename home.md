@@ -1,18 +1,16 @@
 ---
 title: Main Page
 description: The main page
-published: 1
-date: 2023-06-12T18:07:32.780Z
+published: true
+date: 2026-03-08T15:55:46.469Z
 tags: 
 editor: markdown
-dateCreated: 2023-06-12T14:46:37.284Z
+dateCreated: 2025-11-02T14:30:12.559Z
 ---
 
 ## Welcome to the Modern Meadmaking wiki!
 
-This wiki was migrated from the reddit.com/r/mead wiki on June 12 2023, which itself was started on June 16, 2015.
-
-This wiki instance is still being established and migrated, and is not yet open for public contributions. 
+This wiki was migrated from the reddit.com/r/mead wiki on June 12 2023, which itself was started on June 16, 2015. The wiki was then migrated here November 2025.
 
 The purpose of this wiki is to cover the basics of making mead. More thorough information can be [found here](/resources/reading_list).
 
@@ -160,6 +158,8 @@ ____
 * [MeadMakr BatchBuildr](http://www.meadmakr.com/batch-buildr/) and [ABV Calculator](http://www.meadmakr.com/abv-calculator/)
 
 * [Style Guidelines](/guides/style_guidelines)
+
+* [MeadTools](https://meadtools.com)
 
 
 -----
