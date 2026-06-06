@@ -2,7 +2,7 @@
 title: Main Page
 description: The main page
 published: true
-date: 2026-03-08T15:55:48.977Z
+date: 2026-06-06T22:44:45.287Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:30:12.559Z
@@ -19,11 +19,9 @@ This platform should not be used to reproduce copyrighted works or data.
 -----
 ## Help Us!
 
-**Please refer to the [Editing Guidelines](/wiki_editing_guidelines) before editing this wiki. If you abuse editing privileges, you will lose them.**
-
-That said, *please help.*
-
 If you'd like to contribute, but aren't sure where to start, look no further. [There's a list](/please_help) of pages that need content or fleshing out. Please update the list as you complete items. 
+
+To gain access to contribute, create an account and contact larry_r on [discord](https://discord.gg/Wbx9DWWqFC) or through the [MeadTools contact form](https://meadtools.com/contact).
 ____
 
 ### F.A.Q.
