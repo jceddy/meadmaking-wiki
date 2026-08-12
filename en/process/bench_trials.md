@@ -2,7 +2,7 @@
 title: Bench Trials
 description: 
 published: true
-date: 2025-11-02T14:32:40.057Z
+date: 2026-08-12T01:18:31.776Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:32:37.512Z
@@ -76,4 +76,4 @@ The following process uses samples appropriate for fairly small batches of mead 
 
 For tasting trials if desired, you can further refine the dosing by choosing instead the two best samples and mixing equal volumes of each to produce a sample in between each dose and repeat the tasting evaluation.
 
-An excellent video detailing this process can be found on the [Doin' The Most youtube channel](https://www.youtube.com/watch?v=AaibXsslBlE)
+An excellent video detailing this process can be found on the [Doin' The Most youtube channel](https://www.youtube.com/watch?v=T-xGG3AKaiM)
