@@ -23,7 +23,7 @@ Priming should only be done once fermentation has finished and gravity has settl
 Checklist before priming:
 
 - Fermentation is complete and gravity has been stable across multiple readings.
-- If you backsweetened, you'll need to have left a small viable yeast population rather than fully stabilizing — see [Back Sweetening](/process/back_sweeten) — so plan your backsweetening and priming steps together rather than stabilizing first and priming after.
+- The mead hasn't been [backsweetened](/process/back_sweeten) — backsweetening requires stabilizing (or otherwise removing the yeast), which is incompatible with bottle conditioning. If you want a sweet, carbonated mead, force-carbonate via kegging instead (see [Bottle Conditioning vs. Force Carbonation](#bottle-conditioning-vs-kegging) below).
 - You're using bottles rated for the pressure you're targeting (see [Bottle Safety](#bottle-safety) below).
 
 ---
